@@ -9,4 +9,6 @@ func main() {
 
 	fmt.Printf("%v\n", car)
 	fmt.Printf("done")
+	fmt.Printf("ok go")
+
 }
